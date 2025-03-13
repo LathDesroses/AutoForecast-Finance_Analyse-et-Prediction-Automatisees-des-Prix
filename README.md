@@ -3,7 +3,6 @@ DOCUMENTATION DU PROJET: Analyse et prévision des prix bas et élevés de l'Eth
 SOURCE DES CODES : Python
 DATE: 02/04/2024
 AUTEURS: - **Laurence ADODO DAHOUE**  - **Lath ESSOH**
-
 ---
 
 ### Auteurs : 
