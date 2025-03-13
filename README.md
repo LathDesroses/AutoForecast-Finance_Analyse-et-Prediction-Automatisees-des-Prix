@@ -2,9 +2,9 @@
 DOCUMENTATION DU PROJET: Analyse et prévision des prix bas et élevés de l'Ethereum en USD par la modélisation ARIMA/SARIMA
 SOURCE DES CODES : Python
 DATE: 02/04/2024
-AUTEURS:
-  - "Laurence ADODO DAHOUE"
-  - "Lath ESSOH"
+AUTEURS: |
+  Laurence ADODO DAHOUE
+  Lath ESSOH
 ---
 
 # Table des matières
