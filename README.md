@@ -4,6 +4,10 @@ SOURCE DES CODES : Python
 DATE: 02/04/2024
 ---
 
+### Auteurs : 
+- **Laurence ADODO DAHOUE**
+- **Lath ESSOH**
+
 # Table des matières
 
 
