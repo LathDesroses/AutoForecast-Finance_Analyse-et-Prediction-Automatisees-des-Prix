@@ -7,10 +7,6 @@ AUTEURS:
   - Lath ESSOH
 ---
 
-### Auteurs : 
-- **Laurence ADODO DAHOUE**
-- **Lath ESSOH**
-
 # Table des matières
 
 
